@@ -20,7 +20,7 @@ public class DiscountRate {
 		else if(Type == "Silver") {
 			return serviceDiscountSilver;
 		}
-		return 0.0;//pas de Discount 
+		return 0.0;
 	}
 	
 	public double getProductDiscountRate(String Type) {

@@ -40,5 +40,6 @@ public class Visit {
 		return "Customer :"+customer.toString()+" Expense: "+ getTotalExpense() +"$";
 	}
 	
+	
 
 }

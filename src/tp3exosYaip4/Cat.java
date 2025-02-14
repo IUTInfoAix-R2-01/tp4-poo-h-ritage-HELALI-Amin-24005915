@@ -14,5 +14,9 @@ public class Cat extends Mammal {
         return "Cat: Cat [" + super.toString() + "]";
     }
     
+//    public static void main(String[] args) {
+//        Animal animal = new Animal("Animal");
+//        System.out.println(animal.toString());
+//    }
     
 }

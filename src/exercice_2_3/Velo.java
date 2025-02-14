@@ -10,7 +10,6 @@ public class Velo {
     private Random genAlea ;
     
     
-    
     public Random getGenAlea() {
 		return genAlea ;
 	}

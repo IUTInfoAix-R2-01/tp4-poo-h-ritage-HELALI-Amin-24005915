@@ -23,18 +23,16 @@ public class Circle implements GeometricObject {
     }
     
 //    public static void main(String[] args) {
-//        Animal myCat = new Cat("skibidi");
-//        Dog myDog = new Dog("marge");
-//        BigDog myBigDog = new BigDog("marcus");
+//        GeometricObject circle = new Circle(5.0);
+//        GeometricObject rectangle = new Rectangle(4.0, 6.0);
 //
-//        myCat.greets(); 
-//        myDog.greets(); 
+//        System.out.println(circle);
+//        System.out.println("Area: " + circle.getArea());
+//        System.out.println("Perimeter: " + circle.getPerimeter());
 //
-//        myBigDog.greets(); 
-//        Dog anotherDog = new Dog("speed");
-//        myDog.greets(anotherDog);
-//        BigDog anotherBigDog = new BigDog("beast");
-//        myBigDog.greets(anotherDog); 
-//        myBigDog.greets(anotherBigDog); 
+//        System.out.println(rectangle);
+//        System.out.println("Area: " + rectangle.getArea());
+//        System.out.println("Perimeter: " + rectangle.getPerimeter());
 //    }
+
 }
